@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FakeNews/static/css/main.e6c13ad2.css",
-    "main.js": "/FakeNews/static/js/main.1d40aab8.js",
+    "main.js": "/FakeNews/static/js/main.d1d39683.js",
     "static/js/787.6643f1c0.chunk.js": "/FakeNews/static/js/787.6643f1c0.chunk.js",
     "static/media/loading.gif": "/FakeNews/static/media/loading.0d4f6f5867b95dee30d7.gif",
     "index.html": "/FakeNews/index.html",
     "main.e6c13ad2.css.map": "/FakeNews/static/css/main.e6c13ad2.css.map",
-    "main.1d40aab8.js.map": "/FakeNews/static/js/main.1d40aab8.js.map",
+    "main.d1d39683.js.map": "/FakeNews/static/js/main.d1d39683.js.map",
     "787.6643f1c0.chunk.js.map": "/FakeNews/static/js/787.6643f1c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1d40aab8.js"
+    "static/js/main.d1d39683.js"
   ]
 }
